@@ -1,0 +1,16 @@
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.exe
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.deps.json
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.runtimeconfig.json
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.runtimeconfig.dev.json
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.dll
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\ref\Guessing_Game.dll
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\bin\Debug\net5.0\Guessing_Game.pdb
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.csprojAssemblyReference.cache
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.AssemblyInfoInputs.cache
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.AssemblyInfo.cs
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.dll
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\ref\Guessing_Game.dll
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.pdb
+C:\Users\Daniel Ekeleme\VSprograms\Guessing_Game\obj\Debug\net5.0\Guessing_Game.genruntimeconfig.cache
